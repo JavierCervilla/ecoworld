@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://thanos:feliznavidad@cluster0-vbvo4.mongodb.net/test?retryWrites=true&w=majority",
+    "JWTsecret": "secret"
+}
